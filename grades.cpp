@@ -39,3 +39,13 @@ int main() {
 
     return 0;
 }
+
+/* OUTPUT 
+Enter marks for Subject 1: 39
+Enter marks for Subject 2: 78
+Enter marks for Subject 3: 94
+Enter marks for Subject 4: 55
+Enter marks for Subject 5: 82
+Average = 69.6
+Grade is B+
+*/
