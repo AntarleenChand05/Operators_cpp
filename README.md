@@ -4,7 +4,7 @@ Topic: Conditional Statements & Coordinate Geometry
 
 This section contains basic C++ programs using if, else if, and else statements to make decisions based on user input. These are part of Experiment 3A, 3B, and 3C for the EnTC-A1 batch.
 
-✅ Experiment 3A: Number Classification
+"✅ Experiment 3A: Number Classification"
 Aim: To write a C++ program that checks whether a number is positive, negative, or zero.
 
 Theory: Conditional statements help us decide what action to take based on different conditions.
@@ -16,7 +16,7 @@ In this program, we use these statements to check if the number is greater than,
 
 Conclusion: The program worked correctly and identified whether the number was positive, negative, or zero. It helped understand how to use simple condition checks in C++.
 
-✅ Experiment 3B: Student Grade Calculator
+"✅ Experiment 3B: Student Grade Calculator"
 Aim: To write a C++ program that calculates the average of 5 subject marks and assigns a grade.
 
 Theory: This program uses:
@@ -32,7 +32,7 @@ Grades are decided using if-else if-else statements arranged from highest to low
 
 Conclusion: The grade calculator worked as expected and assigned the correct grade. This experiment showed how we can combine arithmetic and conditionals for real-world logic like grading systems.
 
-✅ Experiment 3C: Quadrant Identifier
+"✅ Experiment 3C: Quadrant Identifier"
 Aim: To write a C++ program that identifies the quadrant of a point (x, y), or checks if it's on an axis or the origin.
 
 Theory: In a 2D plane:
